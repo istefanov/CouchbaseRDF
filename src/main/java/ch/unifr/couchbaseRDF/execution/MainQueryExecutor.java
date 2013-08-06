@@ -45,7 +45,7 @@ public class MainQueryExecutor {
 		int repetitions = Integer.parseInt(clusterParams.get(3));
 		
 		boolean print = false;
-		if(clusterParams.size()>2){
+		if(clusterParams.size()>4){
 			print = true;
 		}
 		
