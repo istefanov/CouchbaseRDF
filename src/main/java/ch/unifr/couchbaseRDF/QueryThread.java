@@ -24,7 +24,6 @@ public class QueryThread implements Runnable {
 		this.print = print;
 		this.pr = pr;
 		this.qName = qName;
-		// TODO Auto-generated constructor stub
 	}
 	
 	public void run() {
