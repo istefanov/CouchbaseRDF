@@ -15,4 +15,7 @@ to limit each query's execution time.
 
 When creating a runable jar from the project, the jar looks for parameters that should be provided in a file called serverInfo.
 
-The result execution times are provided in a directory retrieval and a table with the results is provided in a directory called TableResults.
+The result execution times are provided in a directory retrieval 
+and a table with the results is provided in a directory called TableResults.
+
+If you have questions you can write to iliya.enchev[at]exascale.info
