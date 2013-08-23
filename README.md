@@ -2,7 +2,7 @@ CouchbaseRDF
 ============
 
 This is an implementation of SPARQL on top of the NoSQL database Couchbase, using the [Jena ARQ library](http://jena.apache.org/documentation/query/). 
-It is part of the paper "NoSQL Databases for RDF: An Empirical Evaluation".
+It is part of the paper ["NoSQL Databases for RDF: An Empirical Evaluation"](http://ribs.csres.utexas.edu/nosqlrdf/).
 
 To run SPARQL queries with this application, 
 first you need to generate and load data into a running [Couchbase](http://www.couchbase.com/) server 
